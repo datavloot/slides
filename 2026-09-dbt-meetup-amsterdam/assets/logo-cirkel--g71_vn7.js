@@ -1,0 +1,1 @@
+var e=`/slides/2026-09-dbt-meetup-amsterdam/assets/logo-cirkel-QmCbhpuf.png`;export{e as t};
